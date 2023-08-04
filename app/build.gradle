@@ -12,6 +12,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
+        namespace 'com.equationl.videoshotpro'
         applicationId "com.equationl.videoshotpro"
         minSdkVersion 17
         targetSdkVersion 28
